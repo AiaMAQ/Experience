@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BuildUIWithLayoutEditor</string>
+    <string name="righttop">RightTop</string>
+    <string name="leftbottom">LeftBottom</string>
+    <string name="rightbottom">RightBottom</string>
+    <string name="lefttop">LeftTop</string>
+    <string name="idea_android">Idea Android</string>
+    <string name="todo">TODO</string>
+</resources>

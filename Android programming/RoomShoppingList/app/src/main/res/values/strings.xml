@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RoomShoppingList</string>
+    <string name="action_settings">Settings</string>
+    <string name="nametv">TextView</string>
+    <string name="counttv">TextView</string>
+    <string name="pricetv">TextView</string>
+    <string name="name">TextView</string>
+    <string name="nameEt">Name</string>
+    <string name="nameet">name</string>
+    <string name="count">TextView</string>
+    <string name="countet">Name</string>
+    <string name="price">TextView</string>
+    <string name="priceet">Name</string>
+    <string name="nameTV">Name</string>
+    <string name="CounttV">Count</string>
+    <string name="pricetV">Price</string>
+    <string name="countET">count</string>
+    <string name="priceET">price</string>
+    <string name="dialog_cancel">dialogcancel</string>
+    <string name="dialog_ok">dialogok</string>
+    <string name="dialog_titxle">dialogtitxle</string>
+    <string name="dialog_message">dialogmessage</string>
+    <string name="countTv">count</string>
+    <string name="pr">PR</string>
+</resources>

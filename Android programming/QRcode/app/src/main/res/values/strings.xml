@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR code</string>
+    <string name="QRCode_app_id">ca-app-pub-7040761828620868~7816440026</string>
+    <string name="QRCode_banner_ad">ca-app-pub-7040761828620868/5777256585</string>
+    <string name="scan">Scan</string>
+    <string name="please_scan_first">{{please scan first}}</string>
+    <string name="scanned_value">Scanned Value:</string>
+</resources>

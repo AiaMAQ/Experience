@@ -1,0 +1,7 @@
+c:\users\student\documents\visual studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\bin\Debug\OOPAia1A(2).exe.config
+c:\users\student\documents\visual studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\bin\Debug\OOPAia1A(2).exe
+c:\users\student\documents\visual studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\bin\Debug\OOPAia1A(2).pdb
+c:\users\student\documents\visual studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\obj\Debug\OOPAia1A(2).exe
+c:\users\student\documents\visual studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\obj\Debug\OOPAia1A(2).pdb
+c:\users\student\documents\visual studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\obj\Debug\OOPAia1A(2).csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia1A(2)\OOPAia1A(2)\obj\Debug\OOPAia1A(2).csproj.CoreCompileInputs.cache

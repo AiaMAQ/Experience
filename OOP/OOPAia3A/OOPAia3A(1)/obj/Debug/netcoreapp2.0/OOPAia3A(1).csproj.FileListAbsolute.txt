@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\bin\Debug\netcoreapp2.0\OOPAia3A(1).deps.json
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\bin\Debug\netcoreapp2.0\OOPAia3A(1).runtimeconfig.json
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\bin\Debug\netcoreapp2.0\OOPAia3A(1).runtimeconfig.dev.json
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\bin\Debug\netcoreapp2.0\OOPAia3A(1).dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\bin\Debug\netcoreapp2.0\OOPAia3A(1).pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\obj\Debug\netcoreapp2.0\OOPAia3A(1).csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\obj\Debug\netcoreapp2.0\OOPAia3A(1).csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\obj\Debug\netcoreapp2.0\OOPAia3A(1).AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\obj\Debug\netcoreapp2.0\OOPAia3A(1).AssemblyInfo.cs
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\obj\Debug\netcoreapp2.0\OOPAia3A(1).dll
+C:\Users\Student\Documents\Visual Studio 2017\Projects\OOPAia3A(1)\OOPAia3A(1)\obj\Debug\netcoreapp2.0\OOPAia3A(1).pdb

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blog</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="stylesheet/application">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <header id="main_navigation" class="clearfix">
+
+      <%= link_to "Blogs", root_path, class: "name" %>
+      <nav>
+        
+        <%= link_to "Articles", posts_path %>
+        <%= link_to "Projects", projects_path %>
+       <%= link_to "Contact", new_contact_path %>
+      
+       <% if user_signed_in?%>
+       <%= link_to "Sign out", destroy_user_session_path, method: :delete %>
+       <% else %>
+       <%= link_to 'Login', new_user_session_path %>
+       <% end %>
+      </nav>
+    </header>
+    <% if notice %>
+    <p class="notice"><%= notice %></p>
+    <% elsif alert %>
+    <p class="alert"><%= alert %></p>
+    <% end %>
+    <%= yield %>
+
+     <footer id="main_footer">
+      <p class="copyright">&copy;2019 HundrED</p>
+      <nav>
+        <a href="http://twitter.com" target="blank"><i class="fab fa-twitter"></i></a>
+        <a href="http://facebook.com" target="blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://hundred.org/en" target="blank"><i class="fas fa-globe"></i></a>
+      </nav>
+    </footer>
+  </body>
+</html>
